@@ -21,6 +21,7 @@
 	text-decoration-color: #000000;
 	text-underline-offset: 4px;
 }
+
 .header__links-list-item_no-bullit {
 	list-style: none;
 }
@@ -46,6 +47,7 @@
 	line-height: 24.3px;
 	text-decoration: none;
 }
+
 .address-string {
 	font-family: Raleway;
 	font-weight: 400;
@@ -53,6 +55,7 @@
 	font-style: normal;
 	line-height: 24.3px;
 }
+
 .header__address {
 	justify-self: end;
 	max-width: 240px;
@@ -102,6 +105,7 @@
 .no-letter-spacing {
 	margin-right: -30px;
 }
+
 .cover__description {
 	display: flex;
 	justify-content: space-between;
@@ -135,6 +139,7 @@
 	margin-top: 155px;
 	padding: 24px;
 }
+
 .section-heading {
 	font-family: Raleway;
 	font-weight: 700;
@@ -278,6 +283,7 @@
 .footer_address {
 	padding-top: 3px;
 }
+
 .footer__menu-list {
 	display: flex;
 	flex-direction: column;
