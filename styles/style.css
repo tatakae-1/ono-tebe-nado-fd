@@ -1,5 +1,6 @@
-/* место для вашего кода */
-
+.page {
+	width: 1099px;
+}
 .header {
 	display: grid;
 	grid-template-columns: 1fr min-content 1fr;
