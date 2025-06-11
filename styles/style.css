@@ -1,4 +1,5 @@
 .header {
+	margin-top: 7px;
 	display: grid;
 	grid-template-columns: 1fr min-content 1fr;
 	align-items: center;
@@ -91,7 +92,7 @@
 }
 
 .aligned-text_center {
-	margin: 17px -25px 0 0;
+	margin: 17px -26px 0 0;
 	text-align: center;
 }
 
@@ -251,6 +252,7 @@
 
 .about__logo-image {
 	max-width: 150px;
+	margin-top: 8px;
 }
 
 .about__title {
@@ -304,6 +306,7 @@
 	justify-self: end;
 	gap: 48px;
 	list-style: none;
+	padding-top: 3px;
 }
 
 .footer__social-list-item {
