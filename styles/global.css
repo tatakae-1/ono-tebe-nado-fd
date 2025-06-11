@@ -6,7 +6,8 @@
 
 body {
 	max-width: 1100px;
-	margin: 0 auto;
+	margin: auto;
+	padding: 0;
 	font-family: Raleway, sans-serif;
 }
 
